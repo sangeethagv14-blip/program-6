@@ -1,2 +1,2 @@
-git pull request experiment 
-`	this repository is used to done collabrative development
+git pull request experiment
+the repository used to learn collabrative developmet
